@@ -1,5 +1,5 @@
  # NEWS_API
-   An application that allows user to explore various news sources and articles .
+This is an application where the user can see various news sources, select a news source and see all news articles from the selected news source in the application.
 # Demo
 Here is a working live demo : https://news-ap1.herokuapp.com/
 
